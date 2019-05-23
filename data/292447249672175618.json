@@ -1,0 +1,580 @@
+{
+  "blacklisted": {
+    "is": false,
+    "reason": "",
+    "on": 0,
+    "till": 0,
+    "history": {}
+  },
+  "money": 6208.49,
+  "occupation": "none",
+  "time": {
+    "fish": 0,
+    "mine": 1547969448171,
+    "daily": 1548107283724,
+    "weekly": 1548107288316,
+    "beg": 0,
+    "work": 0,
+    "used": 1548107580275,
+    "reputation": 1548105589415
+  },
+  "streak": {
+    "fish": 0,
+    "mine": 0,
+    "daily": 1,
+    "weekly": 1,
+    "beg": 0,
+    "work": 0
+  },
+  "profile": {
+    "sex": "undefined",
+    "bio": "No biography set.",
+    "reputation": 1,
+    "badges": {
+      "0": "badge_dev",
+      "1": "badge_tester",
+      "length": 2
+    },
+    "badgeShowcase": {
+      "0": "badge_dev",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "",
+      "5": "",
+      "6": "",
+      "7": "",
+      "8": "badge_tester",
+      "length": 9
+    },
+    "relstat": "Single",
+    "color": 2318131967
+  },
+  "inventory": {
+    "fish": {
+      "trash": 0,
+      "common": 0,
+      "uncommon": 0,
+      "rare": 0
+    },
+    "minerals": {
+      "stone": 0,
+      "coal": 0,
+      "copper": 0,
+      "iron": 0,
+      "gold": 0,
+      "diamond": 0
+    },
+    "pickaxe": 0,
+    "fishingrod": 0,
+    "gun": 0,
+    "mask": 0
+  },
+  "mine": {
+    "lastGenDate": 1548107300235,
+    "aa": {
+      "type": "gold",
+      "visible": true,
+      "mined": true
+    },
+    "ab": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ac": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ad": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ae": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "af": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ag": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "ah": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ai": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "aj": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ba": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "bb": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "bc": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "bd": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "be": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "bf": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "bg": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "bh": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "bi": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "bj": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ca": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "cb": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "cc": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "cd": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ce": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "cf": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "cg": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ch": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ci": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "cj": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "da": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "db": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "dc": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "dd": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "de": {
+      "type": "diamond",
+      "visible": true,
+      "mined": true
+    },
+    "df": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "dg": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "dh": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "di": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "dj": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ea": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "eb": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "ec": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ed": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ee": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "ef": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "eg": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "eh": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ei": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ej": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "fa": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "fb": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "fc": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "fd": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "fe": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ff": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "fg": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "fh": {
+      "type": "diamond",
+      "visible": true,
+      "mined": true
+    },
+    "fi": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "fj": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ga": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "gb": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "gc": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "gd": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ge": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "gf": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "gg": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "gh": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "gi": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "gj": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "ha": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "hb": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "hc": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "hd": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "he": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "hf": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "hg": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "hh": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "hi": {
+      "type": "diamond",
+      "visible": true,
+      "mined": true
+    },
+    "hj": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ia": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "ib": {
+      "type": "copper",
+      "visible": true,
+      "mined": true
+    },
+    "ic": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "id": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ie": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "if": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ig": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    },
+    "ih": {
+      "type": "diamond",
+      "visible": true,
+      "mined": true
+    },
+    "ii": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "ij": {
+      "type": "gold",
+      "visible": true,
+      "mined": true
+    },
+    "ja": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "jb": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "jc": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "jd": {
+      "type": "coal",
+      "visible": true,
+      "mined": true
+    },
+    "je": {
+      "type": "diamond",
+      "visible": true,
+      "mined": true
+    },
+    "jf": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "jg": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "jh": {
+      "type": "gold",
+      "visible": true,
+      "mined": true
+    },
+    "ji": {
+      "type": "iron",
+      "visible": true,
+      "mined": true
+    },
+    "jj": {
+      "type": "stone",
+      "visible": true,
+      "mined": true
+    }
+  },
+  "level": {
+    "level": 1,
+    "experience": 0
+  }
+}

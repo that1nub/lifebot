@@ -1,0 +1,123 @@
+{
+  "prefix": "~",
+  "admins": {},
+  "adminRoles": {},
+  "mods": {},
+  "modroles": {},
+  "err_invalid_cmd": {
+    "enabled": true,
+    "msg": "**$command** is not a valid command."
+  },
+  "welcome": {
+    "enabled": false,
+    "showNotice": false,
+    "msg": "Please welcome **$@user** to our guild!",
+    "channel": "0",
+    "roles": {}
+  },
+  "leave": {
+    "enabled": false,
+    "showNotice": false,
+    "msg": "**$user#$discrim** ($id) has decided to leave our server.",
+    "channel": "0"
+  },
+  "selfassign": {
+    "enabled": false,
+    "msg": {
+      "mode": "dm",
+      "response": "You $mode the role **$role** on **$server**",
+      "after": "delete"
+    },
+    "roles": {},
+    "react": {
+      "enabled": false,
+      "groups": {}
+    }
+  },
+  "msgs": {
+    "292447249672175618": {
+      "486031317298053120": 716,
+      "502470694106562582": 1,
+      "474305394588647454": 4,
+      "555616392007778304": 4,
+      "487282121711550464": 1,
+      "474307035823865858": 5
+    },
+    "210559163648966657": {
+      "486031317298053120": 140,
+      "474307035823865858": 5
+    },
+    "487032695822745600": {
+      "486031317298053120": 10
+    },
+    "145689417045114881": {
+      "474305394588647454": 4
+    },
+    "469995931211661332": {
+      "474305394588647454": 1,
+      "526268694049980416": 2
+    },
+    "185829131437604865": {
+      "486031317298053120": 56
+    }
+  },
+  "moderation": {
+    "strikes": {},
+    "automod": {
+      "cussing": "",
+      "links": "",
+      "spam": "",
+      "massMention": "",
+      "discordLinks": ""
+    }
+  },
+  "leveling": {
+    "enabled": true,
+    "levels": {
+      "292447249672175618": {
+        "level": 2,
+        "xp": 25,
+        "totalxp": 60,
+        "lastGained": 1555992941078
+      },
+      "185829131437604865": {
+        "level": 1,
+        "xp": 25,
+        "totalxp": 25,
+        "lastGained": 1555975583984
+      },
+      "145689417045114881": {
+        "level": 1,
+        "xp": 5,
+        "totalxp": 5,
+        "lastGained": 1555848447867
+      }
+    },
+    "levelRewards": {
+      "3": "474301950196973568",
+      "5": "474302229411790858",
+      "10": "474302421896790018",
+      "20": "474302551336943619",
+      "40": "474302834267914240"
+    },
+    "noXP": {
+      "474307035823865858": "474307035823865858"
+    }
+  },
+  "suggestions": {
+    "channel": 0,
+    "list": {}
+  },
+  "logs": {
+    "override": "0",
+    "message": "0",
+    "joins": "0",
+    "leaves": "0",
+    "roles": "0",
+    "bans": "0"
+  },
+  "shouts": {},
+  "anyCanSeeConfig": true,
+  "autoDetermineAccess": true,
+  "bans": {}
+}
