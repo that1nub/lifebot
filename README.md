@@ -14,4 +14,5 @@ An example of my incredibly slow upload speed, it takes me two hours, *maybe eve
 
 >Slime_Cubed
 >>Helps Nub develop, either making functions or explaining stuff to Nub (he's still learning)
->>>Code typed by Slime_Cubed is tabbed by four spaces.
+>>>Discord: Slime_Cubed#5880
+>>>>Code typed by Slime_Cubed is tabbed by four spaces.
